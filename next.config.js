@@ -1,9 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'standalone',
+  output: "standalone",
   reactStrictMode: true,
-  basePath: isProd ? '/SwipeSum' : '',
-  assetPrefix: isProd ? '/SwipeSum/' : '',
+  basePath: isProd ? "/SwipeSum" : "",
+  assetPrefix: isProd ? "/SwipeSum/" : "",
 };
 
 module.exports = nextConfig;
