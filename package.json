@@ -13,7 +13,8 @@
     "format": "prettier --write .",
     "test": "jest --watch",
     "test-coverage": "jest --coverage --verbose",
-    "prettier-check": "prettier --check \"**/*.{js,jsx,ts,tsx,css,html}\""
+    "prettier-check": "prettier --check \"**/*.{js,jsx,ts,tsx,css,html}\"",
+    "export": "next build && next export"
   },
   "dependencies": {
     "@types/node": "20.5.1",
