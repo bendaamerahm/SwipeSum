@@ -45,7 +45,9 @@ export default function Home() {
             />
           </a>
         </div>
-        <div><a href="https://ahmedbendaamer.fr">❤️ by bendaamerahm</a></div>
+        <div>
+          <a href="https://ahmedbendaamer.fr">❤️ by bendaamerahm</a>
+        </div>
       </footer>
     </div>
   );

@@ -12,7 +12,8 @@
     "check-code": "prettier --check .",
     "format": "prettier --write .",
     "test": "jest --watch",
-    "test-coverage": "jest --coverage --verbose"
+    "test-coverage": "jest --coverage --verbose",
+    "prettier-check": "prettier --check \"**/*.{js,jsx,ts,tsx,css,html}\""
   },
   "dependencies": {
     "@types/node": "20.5.1",
