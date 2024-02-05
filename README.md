@@ -1,10 +1,5 @@
 # SwipeSum-in-react
 
-[![Open issues][issues-badge]][issues-url]
-[![CI][lint-badge]][lint-url]
-[![CI][test-badge]][test-url]
-[![TypeScript][typescript-badge]][typescript-url]
-
 [![](.docs/demo.gif)](https://github.com/bendaamerahm/SwipeSum/)
 
 ## [💥 Play SwipeSum 💥](https://github.com/bendaamerahm/SwipeSum/)
