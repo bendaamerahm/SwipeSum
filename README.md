@@ -1,4 +1,4 @@
-# SwipeSum-in-react
+# SwipeSum (react)
 
 [![](.docs/demo.gif)](https://github.com/bendaamerahm/SwipeSum/)
 
